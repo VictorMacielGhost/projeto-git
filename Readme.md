@@ -1,0 +1,1 @@
+--- Esse Projeto diz respeito a um "trabalho" do meu curso de webdesenvolvimento. estou utilizando ele para aprender a utilizar o github e outras ferramentas. ---
