@@ -71,7 +71,38 @@ body.servicos #navegacao a#servicos
     cursor: text;
 }
 #todo-conteudo {
-    border: 1px solid red;
-    margin: 30px;
+    margin-top: 60px;
+    background: #f5f5f5;
 }
-
+#conteudo-principal
+{
+    width: 270;
+    background: blue;
+    float: left;
+    margin: 0px 0px 20px 195px ;
+}
+#conteudo-secundario
+{
+    width: 270;
+    background: green;
+    float: left;
+    margin: 0px 0px 20px 15px;
+}
+#barra-lateral
+{
+    width: 180;
+    background: yellow;
+    float: left;
+    margin: 0px 0px 20px -750px;
+}
+#container-rodape
+{
+    padding: 20px;
+    background: #294c71;
+}
+#rodape
+{
+    width: 750px;
+    margin: auto;
+    color: #fff;
+}
